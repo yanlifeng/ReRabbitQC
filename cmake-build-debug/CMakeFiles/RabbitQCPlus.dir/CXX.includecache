@@ -218,10 +218,6 @@ thread
 internal/concurrentqueue_internal_debug.h
 /Users/ylf9811/CLionProjects/RabbitQCPlus/src/internal/concurrentqueue_internal_debug.h
 
-/Users/ylf9811/CLionProjects/RabbitQCPlus/src/filter.cpp
-filter.h
-/Users/ylf9811/CLionProjects/RabbitQCPlus/src/filter.h
-
 /Users/ylf9811/CLionProjects/RabbitQCPlus/src/filter.h
 Globals.h
 /Users/ylf9811/CLionProjects/RabbitQCPlus/src/Globals.h
@@ -247,12 +243,6 @@ peqc.h
 /Users/ylf9811/CLionProjects/RabbitQCPlus/src/peqc.h
 cmdinfo.h
 /Users/ylf9811/CLionProjects/RabbitQCPlus/src/cmdinfo.h
-
-/Users/ylf9811/CLionProjects/RabbitQCPlus/src/peqc.cpp
-functional
--
-peqc.h
-/Users/ylf9811/CLionProjects/RabbitQCPlus/src/peqc.h
 
 /Users/ylf9811/CLionProjects/RabbitQCPlus/src/peqc.h
 FastxChunk.h
