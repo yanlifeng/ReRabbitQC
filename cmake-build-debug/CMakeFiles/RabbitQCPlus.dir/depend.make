@@ -27,6 +27,12 @@ CMakeFiles/RabbitQCPlus.dir/src/Formater.cpp.o: ../src/utils.h
 CMakeFiles/RabbitQCPlus.dir/src/cmdinfo.cpp.o: ../src/cmdinfo.cpp
 CMakeFiles/RabbitQCPlus.dir/src/cmdinfo.cpp.o: ../src/cmdinfo.h
 
+CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.o: ../src/Globals.h
+CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.o: ../src/Reference.h
+CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.o: ../src/cmdinfo.h
+CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.o: ../src/filter.cpp
+CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.o: ../src/filter.h
+
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/Buffer.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/CLI11.hpp
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/Common.h
@@ -38,9 +44,12 @@ CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/Formater.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/Globals.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/Reference.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/cmdinfo.h
+CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/concurrentqueue.h
+CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/filter.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/main.cpp
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/peqc.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/seqc.h
+CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/threadinfo.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/utils.h
 
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/Buffer.h
@@ -67,7 +76,14 @@ CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/Formater.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/Globals.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/Reference.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/cmdinfo.h
+CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/concurrentqueue.h
+CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/filter.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/seqc.cpp
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/seqc.h
+CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/threadinfo.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/utils.h
+
+CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.o: ../src/Globals.h
+CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.o: ../src/threadinfo.cpp
+CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.o: ../src/threadinfo.h
 

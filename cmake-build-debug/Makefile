@@ -223,6 +223,33 @@ src/cmdinfo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/cmdinfo.cpp.s
 .PHONY : src/cmdinfo.cpp.s
 
+src/filter.o: src/filter.cpp.o
+
+.PHONY : src/filter.o
+
+# target to build an object file
+src/filter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.o
+.PHONY : src/filter.cpp.o
+
+src/filter.i: src/filter.cpp.i
+
+.PHONY : src/filter.i
+
+# target to preprocess a source file
+src/filter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.i
+.PHONY : src/filter.cpp.i
+
+src/filter.s: src/filter.cpp.s
+
+.PHONY : src/filter.s
+
+# target to generate assembly for a file
+src/filter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.s
+.PHONY : src/filter.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -304,6 +331,33 @@ src/seqc.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.s
 .PHONY : src/seqc.cpp.s
 
+src/threadinfo.o: src/threadinfo.cpp.o
+
+.PHONY : src/threadinfo.o
+
+# target to build an object file
+src/threadinfo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.o
+.PHONY : src/threadinfo.cpp.o
+
+src/threadinfo.i: src/threadinfo.cpp.i
+
+.PHONY : src/threadinfo.i
+
+# target to preprocess a source file
+src/threadinfo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.i
+.PHONY : src/threadinfo.cpp.i
+
+src/threadinfo.s: src/threadinfo.cpp.s
+
+.PHONY : src/threadinfo.s
+
+# target to generate assembly for a file
+src/threadinfo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.s
+.PHONY : src/threadinfo.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -322,6 +376,9 @@ help:
 	@echo "... src/cmdinfo.o"
 	@echo "... src/cmdinfo.i"
 	@echo "... src/cmdinfo.s"
+	@echo "... src/filter.o"
+	@echo "... src/filter.i"
+	@echo "... src/filter.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
@@ -331,6 +388,9 @@ help:
 	@echo "... src/seqc.o"
 	@echo "... src/seqc.i"
 	@echo "... src/seqc.s"
+	@echo "... src/threadinfo.o"
+	@echo "... src/threadinfo.i"
+	@echo "... src/threadinfo.s"
 .PHONY : help
 
 
