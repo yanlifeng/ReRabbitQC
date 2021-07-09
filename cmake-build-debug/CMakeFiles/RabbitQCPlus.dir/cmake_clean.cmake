@@ -6,6 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o"
   "CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o"
   "CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o"
+  "CMakeFiles/RabbitQCPlus.dir/src/state.cpp.o"
   "CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.o"
   "RabbitQCPlus"
   "RabbitQCPlus.pdb"

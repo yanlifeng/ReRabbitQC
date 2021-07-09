@@ -121,6 +121,12 @@
 		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/seqc.h">
 			<Option target="RabbitQCPlus"/>
 		</Unit>
+		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/state.cpp">
+			<Option target="RabbitQCPlus"/>
+		</Unit>
+		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/state.h">
+			<Option target="RabbitQCPlus"/>
+		</Unit>
 		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/threadinfo.cpp">
 			<Option target="RabbitQCPlus"/>
 		</Unit>

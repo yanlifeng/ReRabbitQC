@@ -25,6 +25,7 @@ CMakeFiles/RabbitQCPlus.dir/src/Formater.cpp.o
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/Reference.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/utils.h
 CMakeFiles/RabbitQCPlus.dir/src/cmdinfo.cpp.o
+ /Users/ylf9811/CLionProjects/RabbitQCPlus/src/Globals.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/cmdinfo.cpp
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/cmdinfo.h
 CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.o
@@ -50,6 +51,7 @@ CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/main.cpp
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/peqc.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/seqc.h
+ /Users/ylf9811/CLionProjects/RabbitQCPlus/src/state.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/threadinfo.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/utils.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o
@@ -81,9 +83,19 @@ CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/filter.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/seqc.cpp
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/seqc.h
+ /Users/ylf9811/CLionProjects/RabbitQCPlus/src/state.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/threadinfo.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/utils.h
+CMakeFiles/RabbitQCPlus.dir/src/state.cpp.o
+ /Users/ylf9811/CLionProjects/RabbitQCPlus/src/Globals.h
+ /Users/ylf9811/CLionProjects/RabbitQCPlus/src/Reference.h
+ /Users/ylf9811/CLionProjects/RabbitQCPlus/src/cmdinfo.h
+ /Users/ylf9811/CLionProjects/RabbitQCPlus/src/state.cpp
+ /Users/ylf9811/CLionProjects/RabbitQCPlus/src/state.h
 CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.o
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/Globals.h
+ /Users/ylf9811/CLionProjects/RabbitQCPlus/src/Reference.h
+ /Users/ylf9811/CLionProjects/RabbitQCPlus/src/cmdinfo.h
+ /Users/ylf9811/CLionProjects/RabbitQCPlus/src/state.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/threadinfo.cpp
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/threadinfo.h
