@@ -64,8 +64,12 @@ CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/Formater.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/Globals.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/Reference.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/cmdinfo.h
+CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/concurrentqueue.h
+CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/filter.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/peqc.cpp
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/peqc.h
+CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/state.h
+CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/threadinfo.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/utils.h
 
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/Buffer.h
