@@ -24,6 +24,11 @@ CMakeFiles/RabbitQCPlus.dir/src/Formater.cpp.o: ../src/Globals.h
 CMakeFiles/RabbitQCPlus.dir/src/Formater.cpp.o: ../src/Reference.h
 CMakeFiles/RabbitQCPlus.dir/src/Formater.cpp.o: ../src/utils.h
 
+CMakeFiles/RabbitQCPlus.dir/src/adapter.cpp.o: ../src/Globals.h
+CMakeFiles/RabbitQCPlus.dir/src/adapter.cpp.o: ../src/Reference.h
+CMakeFiles/RabbitQCPlus.dir/src/adapter.cpp.o: ../src/adapter.cpp
+CMakeFiles/RabbitQCPlus.dir/src/adapter.cpp.o: ../src/adapter.h
+
 CMakeFiles/RabbitQCPlus.dir/src/cmdinfo.cpp.o: ../src/Globals.h
 CMakeFiles/RabbitQCPlus.dir/src/cmdinfo.cpp.o: ../src/cmdinfo.cpp
 CMakeFiles/RabbitQCPlus.dir/src/cmdinfo.cpp.o: ../src/cmdinfo.h
@@ -44,6 +49,7 @@ CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/FastxStream.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/Formater.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/Globals.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/Reference.h
+CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/adapter.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/cmdinfo.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/concurrentqueue.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/filter.h
@@ -63,6 +69,7 @@ CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/FastxStream.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/Formater.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/Globals.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/Reference.h
+CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/adapter.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/cmdinfo.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/concurrentqueue.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/filter.h

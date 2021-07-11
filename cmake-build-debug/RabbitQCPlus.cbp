@@ -94,6 +94,12 @@
 		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/Formater.h">
 			<Option target="RabbitQCPlus"/>
 		</Unit>
+		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/adapter.cpp">
+			<Option target="RabbitQCPlus"/>
+		</Unit>
+		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/adapter.h">
+			<Option target="RabbitQCPlus"/>
+		</Unit>
 		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/cmdinfo.cpp">
 			<Option target="RabbitQCPlus"/>
 		</Unit>

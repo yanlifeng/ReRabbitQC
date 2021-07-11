@@ -196,6 +196,33 @@ src/Formater.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/Formater.cpp.s
 .PHONY : src/Formater.cpp.s
 
+src/adapter.o: src/adapter.cpp.o
+
+.PHONY : src/adapter.o
+
+# target to build an object file
+src/adapter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/adapter.cpp.o
+.PHONY : src/adapter.cpp.o
+
+src/adapter.i: src/adapter.cpp.i
+
+.PHONY : src/adapter.i
+
+# target to preprocess a source file
+src/adapter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/adapter.cpp.i
+.PHONY : src/adapter.cpp.i
+
+src/adapter.s: src/adapter.cpp.s
+
+.PHONY : src/adapter.s
+
+# target to generate assembly for a file
+src/adapter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/adapter.cpp.s
+.PHONY : src/adapter.cpp.s
+
 src/cmdinfo.o: src/cmdinfo.cpp.o
 
 .PHONY : src/cmdinfo.o
@@ -400,6 +427,9 @@ help:
 	@echo "... src/Formater.o"
 	@echo "... src/Formater.i"
 	@echo "... src/Formater.s"
+	@echo "... src/adapter.o"
+	@echo "... src/adapter.i"
+	@echo "... src/adapter.s"
 	@echo "... src/cmdinfo.o"
 	@echo "... src/cmdinfo.i"
 	@echo "... src/cmdinfo.s"
