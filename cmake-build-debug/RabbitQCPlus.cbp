@@ -121,6 +121,12 @@
 		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/peqc.h">
 			<Option target="RabbitQCPlus"/>
 		</Unit>
+		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/repoter.cpp">
+			<Option target="RabbitQCPlus"/>
+		</Unit>
+		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/repoter.h">
+			<Option target="RabbitQCPlus"/>
+		</Unit>
 		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/seqc.cpp">
 			<Option target="RabbitQCPlus"/>
 		</Unit>

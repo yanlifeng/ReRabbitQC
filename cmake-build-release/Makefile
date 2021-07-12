@@ -331,6 +331,33 @@ src/peqc.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.s
 .PHONY : src/peqc.cpp.s
 
+src/repoter.o: src/repoter.cpp.o
+
+.PHONY : src/repoter.o
+
+# target to build an object file
+src/repoter.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.o
+.PHONY : src/repoter.cpp.o
+
+src/repoter.i: src/repoter.cpp.i
+
+.PHONY : src/repoter.i
+
+# target to preprocess a source file
+src/repoter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.i
+.PHONY : src/repoter.cpp.i
+
+src/repoter.s: src/repoter.cpp.s
+
+.PHONY : src/repoter.s
+
+# target to generate assembly for a file
+src/repoter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.s
+.PHONY : src/repoter.cpp.s
+
 src/seqc.o: src/seqc.cpp.o
 
 .PHONY : src/seqc.o
@@ -442,6 +469,9 @@ help:
 	@echo "... src/peqc.o"
 	@echo "... src/peqc.i"
 	@echo "... src/peqc.s"
+	@echo "... src/repoter.o"
+	@echo "... src/repoter.i"
+	@echo "... src/repoter.s"
 	@echo "... src/seqc.o"
 	@echo "... src/seqc.i"
 	@echo "... src/seqc.s"
