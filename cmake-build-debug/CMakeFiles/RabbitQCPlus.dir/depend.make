@@ -96,9 +96,11 @@ CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/FastxStream.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/Formater.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/Globals.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/Reference.h
+CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/adapter.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/cmdinfo.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/concurrentqueue.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/filter.h
+CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/repoter.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/seqc.cpp
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/seqc.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/state.h

@@ -97,9 +97,11 @@ CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/Formater.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/Globals.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/Reference.h
+ /Users/ylf9811/CLionProjects/RabbitQCPlus/src/adapter.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/cmdinfo.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/concurrentqueue.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/filter.h
+ /Users/ylf9811/CLionProjects/RabbitQCPlus/src/repoter.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/seqc.cpp
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/seqc.h
  /Users/ylf9811/CLionProjects/RabbitQCPlus/src/state.h
