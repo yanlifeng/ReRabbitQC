@@ -250,6 +250,33 @@ src/cmdinfo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/cmdinfo.cpp.s
 .PHONY : src/cmdinfo.cpp.s
 
+src/duplicate.o: src/duplicate.cpp.o
+
+.PHONY : src/duplicate.o
+
+# target to build an object file
+src/duplicate.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/duplicate.cpp.o
+.PHONY : src/duplicate.cpp.o
+
+src/duplicate.i: src/duplicate.cpp.i
+
+.PHONY : src/duplicate.i
+
+# target to preprocess a source file
+src/duplicate.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/duplicate.cpp.i
+.PHONY : src/duplicate.cpp.i
+
+src/duplicate.s: src/duplicate.cpp.s
+
+.PHONY : src/duplicate.s
+
+# target to generate assembly for a file
+src/duplicate.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/duplicate.cpp.s
+.PHONY : src/duplicate.cpp.s
+
 src/filter.o: src/filter.cpp.o
 
 .PHONY : src/filter.o
@@ -460,6 +487,9 @@ help:
 	@echo "... src/cmdinfo.o"
 	@echo "... src/cmdinfo.i"
 	@echo "... src/cmdinfo.s"
+	@echo "... src/duplicate.o"
+	@echo "... src/duplicate.i"
+	@echo "... src/duplicate.s"
 	@echo "... src/filter.o"
 	@echo "... src/filter.i"
 	@echo "... src/filter.s"

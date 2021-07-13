@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/RabbitQCPlus.dir/src/Formater.cpp.o"
   "CMakeFiles/RabbitQCPlus.dir/src/adapter.cpp.o"
   "CMakeFiles/RabbitQCPlus.dir/src/cmdinfo.cpp.o"
+  "CMakeFiles/RabbitQCPlus.dir/src/duplicate.cpp.o"
   "CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.o"
   "CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o"
   "CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o"

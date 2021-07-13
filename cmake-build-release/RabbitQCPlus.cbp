@@ -106,6 +106,12 @@
 		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/cmdinfo.h">
 			<Option target="RabbitQCPlus"/>
 		</Unit>
+		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/duplicate.cpp">
+			<Option target="RabbitQCPlus"/>
+		</Unit>
+		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/duplicate.h">
+			<Option target="RabbitQCPlus"/>
+		</Unit>
 		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/filter.cpp">
 			<Option target="RabbitQCPlus"/>
 		</Unit>
