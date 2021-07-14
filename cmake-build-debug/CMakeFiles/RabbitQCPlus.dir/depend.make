@@ -63,6 +63,7 @@ CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/duplicate.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/filter.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/main.cpp
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/peqc.h
+CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/polyx.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/repoter.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/seqc.h
 CMakeFiles/RabbitQCPlus.dir/src/main.cpp.o: ../src/state.h
@@ -85,10 +86,16 @@ CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/duplicate.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/filter.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/peqc.cpp
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/peqc.h
+CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/polyx.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/repoter.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/state.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/threadinfo.h
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.o: ../src/utils.h
+
+CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.o: ../src/Globals.h
+CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.o: ../src/Reference.h
+CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.o: ../src/polyx.cpp
+CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.o: ../src/polyx.h
 
 CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.o: ../src/Globals.h
 CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.o: ../src/Reference.h
@@ -109,6 +116,7 @@ CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/cmdinfo.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/concurrentqueue.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/duplicate.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/filter.h
+CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/polyx.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/repoter.h
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/seqc.cpp
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o: ../src/seqc.h

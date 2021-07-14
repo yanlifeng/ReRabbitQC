@@ -358,6 +358,33 @@ src/peqc.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.s
 .PHONY : src/peqc.cpp.s
 
+src/polyx.o: src/polyx.cpp.o
+
+.PHONY : src/polyx.o
+
+# target to build an object file
+src/polyx.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.o
+.PHONY : src/polyx.cpp.o
+
+src/polyx.i: src/polyx.cpp.i
+
+.PHONY : src/polyx.i
+
+# target to preprocess a source file
+src/polyx.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.i
+.PHONY : src/polyx.cpp.i
+
+src/polyx.s: src/polyx.cpp.s
+
+.PHONY : src/polyx.s
+
+# target to generate assembly for a file
+src/polyx.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.s
+.PHONY : src/polyx.cpp.s
+
 src/repoter.o: src/repoter.cpp.o
 
 .PHONY : src/repoter.o
@@ -499,6 +526,9 @@ help:
 	@echo "... src/peqc.o"
 	@echo "... src/peqc.i"
 	@echo "... src/peqc.s"
+	@echo "... src/polyx.o"
+	@echo "... src/polyx.i"
+	@echo "... src/polyx.s"
 	@echo "... src/repoter.o"
 	@echo "... src/repoter.i"
 	@echo "... src/repoter.s"
