@@ -17,6 +17,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/ylf9811/CLionProjects/RabbitQCPlus/src/seqc.cpp" "/Users/ylf9811/CLionProjects/RabbitQCPlus/cmake-build-debug/CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.o"
   "/Users/ylf9811/CLionProjects/RabbitQCPlus/src/state.cpp" "/Users/ylf9811/CLionProjects/RabbitQCPlus/cmake-build-debug/CMakeFiles/RabbitQCPlus.dir/src/state.cpp.o"
   "/Users/ylf9811/CLionProjects/RabbitQCPlus/src/threadinfo.cpp" "/Users/ylf9811/CLionProjects/RabbitQCPlus/cmake-build-debug/CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.o"
+  "/Users/ylf9811/CLionProjects/RabbitQCPlus/src/umier.cpp" "/Users/ylf9811/CLionProjects/RabbitQCPlus/cmake-build-debug/CMakeFiles/RabbitQCPlus.dir/src/umier.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

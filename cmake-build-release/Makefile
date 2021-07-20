@@ -493,6 +493,33 @@ src/threadinfo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.s
 .PHONY : src/threadinfo.cpp.s
 
+src/umier.o: src/umier.cpp.o
+
+.PHONY : src/umier.o
+
+# target to build an object file
+src/umier.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/umier.cpp.o
+.PHONY : src/umier.cpp.o
+
+src/umier.i: src/umier.cpp.i
+
+.PHONY : src/umier.i
+
+# target to preprocess a source file
+src/umier.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/umier.cpp.i
+.PHONY : src/umier.cpp.i
+
+src/umier.s: src/umier.cpp.s
+
+.PHONY : src/umier.s
+
+# target to generate assembly for a file
+src/umier.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/RabbitQCPlus.dir/build.make CMakeFiles/RabbitQCPlus.dir/src/umier.cpp.s
+.PHONY : src/umier.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -541,6 +568,9 @@ help:
 	@echo "... src/threadinfo.o"
 	@echo "... src/threadinfo.i"
 	@echo "... src/threadinfo.s"
+	@echo "... src/umier.o"
+	@echo "... src/umier.i"
+	@echo "... src/umier.s"
 .PHONY : help
 
 

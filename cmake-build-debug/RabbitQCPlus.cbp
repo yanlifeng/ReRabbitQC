@@ -157,6 +157,12 @@
 		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/threadinfo.h">
 			<Option target="RabbitQCPlus"/>
 		</Unit>
+		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/umier.cpp">
+			<Option target="RabbitQCPlus"/>
+		</Unit>
+		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/src/umier.h">
+			<Option target="RabbitQCPlus"/>
+		</Unit>
 		<Unit filename="/Users/ylf9811/CLionProjects/RabbitQCPlus/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
