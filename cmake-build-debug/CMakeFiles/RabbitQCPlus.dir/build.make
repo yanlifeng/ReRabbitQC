@@ -167,9 +167,22 @@ CMakeFiles/RabbitQCPlus.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RabbitQCPlus.dir/src/main.cpp.s"
 	C:\mingw_17\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\yanli\Desktop\QC\ReRabbitQC\src\main.cpp -o CMakeFiles\RabbitQCPlus.dir\src\main.cpp.s
 
+CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.obj: CMakeFiles/RabbitQCPlus.dir/flags.make
+CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.obj: ../src/nucleotidetree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.obj"
+	C:\mingw_17\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RabbitQCPlus.dir\src\nucleotidetree.cpp.obj -c C:\Users\yanli\Desktop\QC\ReRabbitQC\src\nucleotidetree.cpp
+
+CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.i"
+	C:\mingw_17\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\yanli\Desktop\QC\ReRabbitQC\src\nucleotidetree.cpp > CMakeFiles\RabbitQCPlus.dir\src\nucleotidetree.cpp.i
+
+CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.s"
+	C:\mingw_17\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\yanli\Desktop\QC\ReRabbitQC\src\nucleotidetree.cpp -o CMakeFiles\RabbitQCPlus.dir\src\nucleotidetree.cpp.s
+
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.obj: CMakeFiles/RabbitQCPlus.dir/flags.make
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.obj: ../src/peqc.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.obj"
 	C:\mingw_17\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RabbitQCPlus.dir\src\peqc.cpp.obj -c C:\Users\yanli\Desktop\QC\ReRabbitQC\src\peqc.cpp
 
 CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.i: cmake_force
@@ -182,7 +195,7 @@ CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.s: cmake_force
 
 CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.obj: CMakeFiles/RabbitQCPlus.dir/flags.make
 CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.obj: ../src/polyx.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.obj"
 	C:\mingw_17\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RabbitQCPlus.dir\src\polyx.cpp.obj -c C:\Users\yanli\Desktop\QC\ReRabbitQC\src\polyx.cpp
 
 CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.i: cmake_force
@@ -195,7 +208,7 @@ CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.s: cmake_force
 
 CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.obj: CMakeFiles/RabbitQCPlus.dir/flags.make
 CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.obj: ../src/repoter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.obj"
 	C:\mingw_17\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RabbitQCPlus.dir\src\repoter.cpp.obj -c C:\Users\yanli\Desktop\QC\ReRabbitQC\src\repoter.cpp
 
 CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.i: cmake_force
@@ -208,7 +221,7 @@ CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.s: cmake_force
 
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.obj: CMakeFiles/RabbitQCPlus.dir/flags.make
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.obj: ../src/seqc.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.obj"
 	C:\mingw_17\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RabbitQCPlus.dir\src\seqc.cpp.obj -c C:\Users\yanli\Desktop\QC\ReRabbitQC\src\seqc.cpp
 
 CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.i: cmake_force
@@ -221,7 +234,7 @@ CMakeFiles/RabbitQCPlus.dir/src/seqc.cpp.s: cmake_force
 
 CMakeFiles/RabbitQCPlus.dir/src/state.cpp.obj: CMakeFiles/RabbitQCPlus.dir/flags.make
 CMakeFiles/RabbitQCPlus.dir/src/state.cpp.obj: ../src/state.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/state.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/state.cpp.obj"
 	C:\mingw_17\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RabbitQCPlus.dir\src\state.cpp.obj -c C:\Users\yanli\Desktop\QC\ReRabbitQC\src\state.cpp
 
 CMakeFiles/RabbitQCPlus.dir/src/state.cpp.i: cmake_force
@@ -234,7 +247,7 @@ CMakeFiles/RabbitQCPlus.dir/src/state.cpp.s: cmake_force
 
 CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.obj: CMakeFiles/RabbitQCPlus.dir/flags.make
 CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.obj: ../src/threadinfo.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.obj"
 	C:\mingw_17\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RabbitQCPlus.dir\src\threadinfo.cpp.obj -c C:\Users\yanli\Desktop\QC\ReRabbitQC\src\threadinfo.cpp
 
 CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.i: cmake_force
@@ -247,7 +260,7 @@ CMakeFiles/RabbitQCPlus.dir/src/threadinfo.cpp.s: cmake_force
 
 CMakeFiles/RabbitQCPlus.dir/src/umier.cpp.obj: CMakeFiles/RabbitQCPlus.dir/flags.make
 CMakeFiles/RabbitQCPlus.dir/src/umier.cpp.obj: ../src/umier.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/umier.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/RabbitQCPlus.dir/src/umier.cpp.obj"
 	C:\mingw_17\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\RabbitQCPlus.dir\src\umier.cpp.obj -c C:\Users\yanli\Desktop\QC\ReRabbitQC\src\umier.cpp
 
 CMakeFiles/RabbitQCPlus.dir/src/umier.cpp.i: cmake_force
@@ -267,6 +280,7 @@ RabbitQCPlus_OBJECTS = \
 "CMakeFiles/RabbitQCPlus.dir/src/duplicate.cpp.obj" \
 "CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.obj" \
 "CMakeFiles/RabbitQCPlus.dir/src/main.cpp.obj" \
+"CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.obj" \
 "CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.obj" \
 "CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.obj" \
 "CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.obj" \
@@ -285,6 +299,7 @@ RabbitQCPlus.exe: CMakeFiles/RabbitQCPlus.dir/src/cmdinfo.cpp.obj
 RabbitQCPlus.exe: CMakeFiles/RabbitQCPlus.dir/src/duplicate.cpp.obj
 RabbitQCPlus.exe: CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.obj
 RabbitQCPlus.exe: CMakeFiles/RabbitQCPlus.dir/src/main.cpp.obj
+RabbitQCPlus.exe: CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.obj
 RabbitQCPlus.exe: CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.obj
 RabbitQCPlus.exe: CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.obj
 RabbitQCPlus.exe: CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.obj
@@ -296,7 +311,7 @@ RabbitQCPlus.exe: CMakeFiles/RabbitQCPlus.dir/build.make
 RabbitQCPlus.exe: CMakeFiles/RabbitQCPlus.dir/linklibs.rsp
 RabbitQCPlus.exe: CMakeFiles/RabbitQCPlus.dir/objects1.rsp
 RabbitQCPlus.exe: CMakeFiles/RabbitQCPlus.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable RabbitQCPlus.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\yanli\Desktop\QC\ReRabbitQC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable RabbitQCPlus.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\RabbitQCPlus.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

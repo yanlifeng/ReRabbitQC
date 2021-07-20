@@ -331,6 +331,33 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RabbitQCPlus.dir\build.make CMakeFiles/RabbitQCPlus.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/nucleotidetree.obj: src/nucleotidetree.cpp.obj
+
+.PHONY : src/nucleotidetree.obj
+
+# target to build an object file
+src/nucleotidetree.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RabbitQCPlus.dir\build.make CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.obj
+.PHONY : src/nucleotidetree.cpp.obj
+
+src/nucleotidetree.i: src/nucleotidetree.cpp.i
+
+.PHONY : src/nucleotidetree.i
+
+# target to preprocess a source file
+src/nucleotidetree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RabbitQCPlus.dir\build.make CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.i
+.PHONY : src/nucleotidetree.cpp.i
+
+src/nucleotidetree.s: src/nucleotidetree.cpp.s
+
+.PHONY : src/nucleotidetree.s
+
+# target to generate assembly for a file
+src/nucleotidetree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RabbitQCPlus.dir\build.make CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.s
+.PHONY : src/nucleotidetree.cpp.s
+
 src/peqc.obj: src/peqc.cpp.obj
 
 .PHONY : src/peqc.obj
@@ -550,6 +577,9 @@ help:
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/nucleotidetree.obj
+	@echo ... src/nucleotidetree.i
+	@echo ... src/nucleotidetree.s
 	@echo ... src/peqc.obj
 	@echo ... src/peqc.i
 	@echo ... src/peqc.s

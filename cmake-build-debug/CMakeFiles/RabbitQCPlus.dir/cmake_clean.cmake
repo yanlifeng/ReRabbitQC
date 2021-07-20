@@ -6,6 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/RabbitQCPlus.dir/src/duplicate.cpp.obj"
   "CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.obj"
   "CMakeFiles/RabbitQCPlus.dir/src/main.cpp.obj"
+  "CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.obj"
   "CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.obj"
   "CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.obj"
   "CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.obj"

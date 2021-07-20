@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/yanli/Desktop/QC/ReRabbitQC/src/duplicate.cpp" "C:/Users/yanli/Desktop/QC/ReRabbitQC/cmake-build-debug/CMakeFiles/RabbitQCPlus.dir/src/duplicate.cpp.obj"
   "C:/Users/yanli/Desktop/QC/ReRabbitQC/src/filter.cpp" "C:/Users/yanli/Desktop/QC/ReRabbitQC/cmake-build-debug/CMakeFiles/RabbitQCPlus.dir/src/filter.cpp.obj"
   "C:/Users/yanli/Desktop/QC/ReRabbitQC/src/main.cpp" "C:/Users/yanli/Desktop/QC/ReRabbitQC/cmake-build-debug/CMakeFiles/RabbitQCPlus.dir/src/main.cpp.obj"
+  "C:/Users/yanli/Desktop/QC/ReRabbitQC/src/nucleotidetree.cpp" "C:/Users/yanli/Desktop/QC/ReRabbitQC/cmake-build-debug/CMakeFiles/RabbitQCPlus.dir/src/nucleotidetree.cpp.obj"
   "C:/Users/yanli/Desktop/QC/ReRabbitQC/src/peqc.cpp" "C:/Users/yanli/Desktop/QC/ReRabbitQC/cmake-build-debug/CMakeFiles/RabbitQCPlus.dir/src/peqc.cpp.obj"
   "C:/Users/yanli/Desktop/QC/ReRabbitQC/src/polyx.cpp" "C:/Users/yanli/Desktop/QC/ReRabbitQC/cmake-build-debug/CMakeFiles/RabbitQCPlus.dir/src/polyx.cpp.obj"
   "C:/Users/yanli/Desktop/QC/ReRabbitQC/src/repoter.cpp" "C:/Users/yanli/Desktop/QC/ReRabbitQC/cmake-build-debug/CMakeFiles/RabbitQCPlus.dir/src/repoter.cpp.obj"

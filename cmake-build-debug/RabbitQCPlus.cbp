@@ -119,6 +119,12 @@
 		<Unit filename="C:/Users/yanli/Desktop/QC/ReRabbitQC/src/main.cpp">
 			<Option target="RabbitQCPlus"/>
 		</Unit>
+		<Unit filename="C:/Users/yanli/Desktop/QC/ReRabbitQC/src/nucleotidetree.cpp">
+			<Option target="RabbitQCPlus"/>
+		</Unit>
+		<Unit filename="C:/Users/yanli/Desktop/QC/ReRabbitQC/src/nucleotidetree.h">
+			<Option target="RabbitQCPlus"/>
+		</Unit>
 		<Unit filename="C:/Users/yanli/Desktop/QC/ReRabbitQC/src/peqc.cpp">
 			<Option target="RabbitQCPlus"/>
 		</Unit>
