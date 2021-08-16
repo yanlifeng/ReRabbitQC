@@ -21,19 +21,17 @@ int main() {
     int ok;
 
     freopen("ORP.log", "r", stdin);
-    while (cin >> s1 >> s2) {
+    while (cin >> s1) {
         node t;
         t.s1 = s1;
-        t.s2 = s2;
         A.push_back(t);
     }
     fclose(stdin);
     cin.clear();
     freopen("../ReRabbitQC/build/ORP.log", "r", stdin);
-    while (cin >> s1 >> s2) {
+    while (cin >> s1) {
         node t;
         t.s1 = s1;
-        t.s2 = s2;
         B.push_back(t);
     }
     fclose(stdin);
@@ -47,7 +45,6 @@ int main() {
     ok = 1;
     for (int i = 0; i < min(A.size(), B.size()); i++) {
         if (A[i].s1 != B[i].s1)ok = 0;
-        if (A[i].s2 != B[i].s2)ok = 0;
     }
     if (ok == 0)printf("GG in check ORP\n");
     else printf("AC in check ORP\n");
